@@ -1,3 +1,2 @@
-# Atelier d'introduction aux analyses statistiques sous R
-# IVADO Data Trek 2022
+# IVADO Data Trek 2022- Atelier d'introduction aux analyses statistiques sous R
 
